@@ -1,0 +1,7 @@
+Idea: User has a POV experience sitting on a couch browsing through youtube clips.
+
+How i would do this is by fetching data from youtubes API. What I would need to do is send a request
+from youtubes API through Unity. I already have a sense on how to get data from the weather API we worked on
+in class. What is going to be challenging is being able to code an animation that shows the POV of the characters arm with a remote flipping through videos and triggering video playback when user presses a button.
+
+
